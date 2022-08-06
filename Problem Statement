@@ -1,3 +1,5 @@
-#To get the summary of all the articles related to the topic will save the time and energy when referring to a certain news topic. 
-#Text summarization is a way of minimizing a textual document to a meaningful summary by preserving its information content and the overall meaning.
-#The main objective of a text summarization system is to identify the most important information from the given text and present it to the end users.
+#Problem Statement
+
+##To get the summary of all the articles related to the topic will save the time and energy when referring to a certain news topic. 
+##Text summarization is a way of minimizing a textual document to a meaningful summary by preserving its information content and the overall meaning.
+##The main objective of a text summarization system is to identify the most important information from the given text and present it to the end users.
