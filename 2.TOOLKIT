@@ -1,2 +1,9 @@
-# Toolkit
-Here we are summarizing the news with various summarizers using NLP. 
+# Toolkit - libraries imported
+## 1. numpy
+NumPy is a Python library used for working with arrays. NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
+## 2. pandas
+Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
+## 3. matplotlib
+Matplotlib is a low level graph plotting library in python that serves as a visualization utility.
+## 4. summarizer
+Summarizer is an automatic summarization algorithm.
